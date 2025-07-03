@@ -1,4 +1,4 @@
-# Fake URL Detector CLI
+# Malicious URL Detector CLI
 
 A command-line tool for detecting potentially malicious URLs using machine learning. This project trains a Random Forest classifier on a labeled dataset of URLs, extracts interpretable features, and provides an easy-to-use CLI for training, prediction, and model interpretation.
 
