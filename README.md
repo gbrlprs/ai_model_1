@@ -12,8 +12,8 @@ A command-line tool for detecting potentially malicious URLs using machine learn
 
 1. **Clone the repository:**
    ```sh
-   git clone <your-repo-url>
-   cd <your-repo-directory>
+   git clone https://github.com/gbrlprs/ai_model_1
+   cd <directory>
    ```
 2. **Install dependencies:**
    ```sh
